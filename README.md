@@ -2,9 +2,7 @@
 
 ---
 
-### Oh SeongHun
 
-Contact: tjd_gns12@naver.com
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=treeman0618)](https://solved.ac/treeman0618/)
 
